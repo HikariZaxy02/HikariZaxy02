@@ -1,7 +1,8 @@
 ## 🖼️ My Photo
 <p align="center">
   <a href="https://github.com/HikariZaxy02">
-    <img src="[https://raw.githubusercontent.com/HikariZaxy02/HikariZaxy02/main/01ebdb20-6adf-4f71-8ffd-90b9b3d72bb7.png](https://imgur.com/a/DCBTger)" 
+    <img src="[![❤️Takanashi Hoshino❤️](https://github.com/user-attachments/assets/ac073e85-0062-41a8-8691-f557d8721442)
+" 
          alt="My Photo" 
          width="200" 
          style="border-radius: 15px; box-shadow: 0 0 10px rgba(255,255,255,0.2);">
