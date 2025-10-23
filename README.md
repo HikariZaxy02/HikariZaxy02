@@ -1,23 +1,6 @@
 ## 🖼️ My Photo
 ![❤️Takanashi Hoshino❤️](https://github.com/user-attachments/assets/d667ee36-80cb-4b8d-af8f-91bc1c8b3e15)
 
-<p align="center">
-  <a href="https://github.com/HikariZaxy02">
-    <img src="[![❤️Takanashi Hoshino❤️](https://github.com/user-attachments/assets/ac073e85-0062-41a8-8691-f557d8721442)
-" 
-         alt="My Photo" 
-         width="200" 
-         style="border-radius: 15px; box-shadow: 0 0 10px rgba(255,255,255,0.2);">
-  </a>
-</p>
-
----
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/)
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/893322559985184830) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/profile.php?id=100050253676057&locale=id_ID) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zaxy.oz/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/dragonz_cross02) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCPcBCS5OV1QgVy-pWjQgnSw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaky11308@gmail.com) 
 
