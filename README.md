@@ -1,4 +1,6 @@
 ## 🖼️ My Photo
+![❤️Takanashi Hoshino❤️](https://github.com/user-attachments/assets/d667ee36-80cb-4b8d-af8f-91bc1c8b3e15)
+
 <p align="center">
   <a href="https://github.com/HikariZaxy02">
     <img src="[![❤️Takanashi Hoshino❤️](https://github.com/user-attachments/assets/ac073e85-0062-41a8-8691-f557d8721442)
