@@ -5,6 +5,8 @@
 
 ![Chisato and Takina twirl moment on Make a GIF (1)](https://github.com/user-attachments/assets/1f41ae6e-bef3-42c0-8def-2493e72df9b2)
 
+https://github.com/user-attachments/assets/b26af3e7-84a0-46af-9058-103adb6d8516
+
 
 
 ## 🌐 Socials:
