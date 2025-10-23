@@ -1,5 +1,6 @@
 ## 🖼️ My Photo
 ![❤️Takanashi Hoshino❤️](https://github.com/user-attachments/assets/d667ee36-80cb-4b8d-af8f-91bc1c8b3e15)
+
 ![Chisato and Takina twirl moment on Make a GIF (1)](https://github.com/user-attachments/assets/1f41ae6e-bef3-42c0-8def-2493e72df9b2)
 
 ## 🌐 Socials:
